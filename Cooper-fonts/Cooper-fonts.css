@@ -1,0 +1,20 @@
+@fontface{ font-family: "cooper-fonts"; font-weight: 200; normal; src:url("Cooper-fonts/CooperHewitt-Thin.woff");}
+@fontface{ font-family: "cooper-fonts"; font-weight: 200; italic; src:url("Cooper-fonts/CooperHewitt-ThinItalic.woff");}
+
+@fontface{ font-family: "cooper-fonts"; font-weight: 300; normal; src:url("Cooper-fonts/CooperHewitt-Light.woff");}
+@fontface{ font-family: "cooper-fonts"; font-weight: 300; italic; src:url("Cooper-fonts/CooperHewitt-LightItalic.woff");}
+
+@fontface{ font-family: "cooper-fonts"; font-weight: 400; normal; src:url("Cooper-fonts/CooperHewitt-Book.woff");}
+@fontface{ font-family: "cooper-fonts"; font-weight: 400; italic; src:url("Cooper-fonts/CooperHewitt-BookItalic.woff");}
+
+@fontface{ font-family: "cooper-fonts"; font-weight: 500; normal; src:url("Cooper-fonts/CooperHewitt-Medium.woff");}
+@fontface{ font-family: "cooper-fonts"; font-weight: 500; italic; src:url("Cooper-fonts/CooperHewitt-MediumItalic.woff");}
+
+@fontface{ font-family: "cooper-fonts"; font-weight: 500; normal; src:url("Cooper-fonts/CooperHewitt-Semibold.woff");}
+@fontface{ font-family: "cooper-fonts"; font-weight: 500; italic; src:url("Cooper-fonts/CooperHewitt-SemiboldItalic.woff");}
+
+@fontface{ font-family: "cooper-fonts"; font-weight: 700; normal; src:url("Cooper-fonts/CooperHewitt-Bold.woff");}
+@fontface{ font-family: "cooper-fonts"; font-weight: 700; italic; src:url("Cooper-fonts/CooperHewitt-BoldItalic.woff");}
+
+@fontface{ font-family: "cooper-fonts"; font-weight: 800; normal; src:url("Cooper-fonts/CooperHewitt-Heavy.woff");}
+@fontface{ font-family: "cooper-fonts"; font-weight: 800; italic; src:url("Cooper-fonts/CooperHewitt-HeavyItalic.woff");}
